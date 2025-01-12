@@ -20,8 +20,8 @@ Pokemon Finder is a simple web application built with React that allows users to
 
 **Clone the repository:**
 ```bash
-git clone https://github.com/axelfrache/PokemonFinder.git
-cd PokemonFinder
+git clone https://github.com/axelfrache/pokemon-finder.git
+cd pokemon-finder
 ```
 
 **Install dependencies:**
@@ -67,7 +67,7 @@ Contributions to Pokemon Finder are welcome!
 1. **Fork the repository** on GitHub.
 2. **Clone your fork** to your local machine.
    ```sh
-   git clone https://github.com/your-username/ReactPokemonFinder.git
+   git clone https://github.com/axelfrache/pokemon-finder.git
    ```
 3. **Create a new branch** for your features or fixes.
    ```sh
